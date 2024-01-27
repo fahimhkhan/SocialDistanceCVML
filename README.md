@@ -16,6 +16,7 @@ SocialDistanceCVML is a collection of Python scripts designed to detect adherenc
 Clone the repository:
 ```bash
 git clone https://github.com/fahimhkhan/SocialDistanceCVML.git
+```
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
